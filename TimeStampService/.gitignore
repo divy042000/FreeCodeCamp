@@ -1,0 +1,13 @@
+*.log
+node_modules/
+node_modules/*/
+.DS_Store
+.env
+/*.tmp
+/dist/
+/.vscode/
+/coverage/
+/tests/
+/cache/
+/build/
+/venv/
